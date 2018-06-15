@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:rgb(2, 2, 2);
+}
+
+#particles-js{
+  background:rgb(2, 3, 78);
+  height:400px;
+}
+.ptext{
+  position:absolute;
+  top:30%;
+  width:100%;
+  text-align:center;
+  color:#000;
+  font-size:27px;
+  letter-spacing:8px;
+  text-transform:uppercase;
+}
+
+.ptext .border{
+  background-color:#111;
+  color:rgb(52, 216, 11);
+  padding:20px;
+}
+
+.ptext .border.trans{
+  background-color:transparent;
+}
+
